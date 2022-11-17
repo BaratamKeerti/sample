@@ -1,3 +1,3 @@
 # sample
-Hello This is keerti.
-This is just a sample test.
+Hello, This is keerti.  
+This is just a sample note for testing.
